@@ -1,0 +1,37 @@
+	.clear, .clear_5, .clear_10, .clear_15, .clear_20, .clear_25, .clear_30, .clear_35,
+	.clear_40, .clear_45, .clear_50, .clear_55, .clear_60, .clear_65, .clear_70,
+	.clear_75, .clear_80, .clear_85, .clear_90, .clear_95, .clear_100{
+		display:block;
+		width:100%;
+		clear:both;
+	}
+
+	.clear_5{height:5px;}
+	.clear_10{height:10px;}
+
+	.clear_15{height:15px;}
+	.clear_20{height:20px;}
+
+	.clear_25{height:25px;}
+	.clear_30{height:30px;}
+
+	.clear_35{height:35px;}
+	.clear_40{height:40px;}
+
+	.clear_45{height:45px;}
+	.clear_50{height:50px;}
+
+	.clear_55{height:55px;}
+	.clear_60{height:60px;}
+
+	.clear_65{height:65px;}
+	.clear_70{height:70px;}
+
+	.clear_75{height:75px;}
+	.clear_80{height:80px;}
+
+	.clear_85{height:85px;}
+	.clear_90{height:90px;}
+
+	.clear_95{height:95px;}
+	.clear_100{height:100px;}
